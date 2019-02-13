@@ -6,7 +6,7 @@ https://developer.xero.com/partner/partner-resources/partner-landing-page-requir
 
 # Hosting
 The page is hosted as a Github page of this repository under /docs for a preview:
-
+https://xeroapi.github.io/AppPartnerLandingPageTemplate/.
 
 # Framework and Template Used
 Based on startbootstrap.com free to use (MIT license) template called [Scrolling Navigation](https://startbootstrap.com/template-overviews/scrolling-nav/) with a slight tweak of the bootstrap.css and a customised scolling-nav.css. 
